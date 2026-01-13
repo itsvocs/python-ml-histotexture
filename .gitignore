@@ -41,7 +41,7 @@ START_HERE.md
 Thumbs.db
 
 # Data (optional - für große Dateien)
-# data/raw/*.png
+data/raw/*.png
 # data/processed/*
 
 # Results (optional)
