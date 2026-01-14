@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Projektziel
+## Projektziel
 
 Klassifikation von Tumorgewebe vs. normalem Gewebe mittels Textur- und Farbraum-Analyse auf H&E-gefärbten histopathologischen Bildern.
 
@@ -22,7 +22,7 @@ Klassifikation von Tumorgewebe vs. normalem Gewebe mittels Textur- und Farbraum-
 
 ---
 
-## 🛠️ Methodik
+## Methodik
 
 ### **Teil 1: Datenvorbereitung & Farbraum-Analyse**
 - RGB → HSV Konversion zur Trennung von Farbinformation und Helligkeit
@@ -48,7 +48,7 @@ Klassifikation von Tumorgewebe vs. normalem Gewebe mittels Textur- und Farbraum-
 
 ---
 
-## 📁 Projektstruktur
+## Projektstruktur
 
 ```
 python-ml-histotexture/
@@ -67,17 +67,16 @@ python-ml-histotexture/
 │   └── utils.py                # Wiederverwendbare Funktionen
 │
 ├── results/
-│   ├── figures/                # Visualisierungen für Präsentation
+│   ├── figures/                # Visualisierungen 
 │   └── models/                 # Trainierte ML-Modelle
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
@@ -85,7 +84,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📚 Quellen
+## Quellen
 
 - scikit-image Documentation: https://scikit-image.org/
 - Texture Analysis in Medical Imaging: Shannon Entropy
@@ -93,7 +92,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 Dokumentation & Reflexion
+## Dokumentation & Reflexion
 
 Siehe Jupyter Notebooks für detaillierte Dokumentation des Vorgehens, einschließlich:
 - Begründungen für methodische Entscheidungen

@@ -24,6 +24,7 @@ wheels/
 *.egg
 
 START_HERE.md 
+ARBEITSPLAN.md
 
 # Jupyter Notebook
 .ipynb_checkpoints
